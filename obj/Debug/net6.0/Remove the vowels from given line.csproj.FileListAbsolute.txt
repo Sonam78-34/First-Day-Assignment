@@ -1,0 +1,15 @@
+E:\Name\ConsoleApp2\bin\Debug\net6.0\Remove the vowels from given line.exe
+E:\Name\ConsoleApp2\bin\Debug\net6.0\Remove the vowels from given line.deps.json
+E:\Name\ConsoleApp2\bin\Debug\net6.0\Remove the vowels from given line.runtimeconfig.json
+E:\Name\ConsoleApp2\bin\Debug\net6.0\Remove the vowels from given line.dll
+E:\Name\ConsoleApp2\bin\Debug\net6.0\Remove the vowels from given line.pdb
+E:\Name\ConsoleApp2\obj\Debug\net6.0\Remove the vowels from given line.csproj.AssemblyReference.cache
+E:\Name\ConsoleApp2\obj\Debug\net6.0\Remove the vowels from given line.GeneratedMSBuildEditorConfig.editorconfig
+E:\Name\ConsoleApp2\obj\Debug\net6.0\Remove the vowels from given line.AssemblyInfoInputs.cache
+E:\Name\ConsoleApp2\obj\Debug\net6.0\Remove the vowels from given line.AssemblyInfo.cs
+E:\Name\ConsoleApp2\obj\Debug\net6.0\Remove the vowels from given line.csproj.CoreCompileInputs.cache
+E:\Name\ConsoleApp2\obj\Debug\net6.0\Remove the vowels from given line.dll
+E:\Name\ConsoleApp2\obj\Debug\net6.0\refint\Remove the vowels from given line.dll
+E:\Name\ConsoleApp2\obj\Debug\net6.0\Remove the vowels from given line.pdb
+E:\Name\ConsoleApp2\obj\Debug\net6.0\Remove the vowels from given line.genruntimeconfig.cache
+E:\Name\ConsoleApp2\obj\Debug\net6.0\ref\Remove the vowels from given line.dll
